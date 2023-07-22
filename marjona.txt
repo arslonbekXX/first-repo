@@ -1,1 +1,2 @@
 hello Marjona
+Learning Git is easy
