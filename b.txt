@@ -1,1 +1,1 @@
-[b] = hello g-10
+[b] = hello pdp-g-10
